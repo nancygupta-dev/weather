@@ -33,3 +33,11 @@ This project was created to practice Android development, API integration, Jetpa
 ## 👩‍💻 Developer
 
 Nancy Gupta
+
+## Screenshot 
+
+### Weather App
+
+![Weather App](Screenshot_20260912_232505.jpg)
+
+![Weather App Search](Screenshot_20260912_232604.jpg)
